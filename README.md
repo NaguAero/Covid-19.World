@@ -1,3 +1,4 @@
-# Covid-19.World
+# Covid-19 World Data Visualization
 
-The json file contains the data of current cases of Covid19 for most of the countries.
+In the view of the current pandemic created by novel Covid-19, it is essential to analyze the data in a simpler and understandable manner.
+An attmept is presented here.
