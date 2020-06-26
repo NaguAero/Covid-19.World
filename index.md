@@ -1,5 +1,8 @@
 ---
 layout: default
+.page__content {
+  text-align: justify;
+}
 ---
 # Covid-19: Initial Growth Trend
 The novel coronavirus COVID-19 is affecting around 200 countries and territories around the world. 
