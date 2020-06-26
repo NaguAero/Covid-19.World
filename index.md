@@ -20,4 +20,76 @@ Based on the growth of the cases, most of the countries can be classified in to 
 * India moved one place up by crossing Italy (June 5). India moved two places up by crossing Germany and France (May 31). India moved one place up by crossing Turkey on May 28.
 * India is among the top 4 countries with maximum number of Active Cases.
 ## Plots
-<canvas id="allpie" width="400" height="500"></canvas>
+<canvas id="testsmall" width="400" height="500"></canvas>
+<script>
+var ctx = document.getElementById("testsmall").getContext("2d");
+var allstates = new Chart(ctx, {
+  type: 'bar',
+  data: {
+	  labels : ['USA', 'Brazil', 'Russia', 'Spain', 'UK', 'Italy', 'France', 'Germany', 'India', 'Turkey', 'Iran', 'Peru', 'Canada', 'Chile', 'Saudi Arabia', 'Mexico', 'Pakistan', 'Belgium', 'Qatar'],
+    datasets: [
+	{
+		label: 'Tested positive per million',
+		data : [5346, 2065, 2656, 6095, 3966, 3832, 2853, 2178, 121, 1910, 1748, 4305, 2347, 4551, 2352, 631, 290, 5011, 18393],
+		backgroundColor: 'rgba(255, 0, 0, 0.8)',borderColor: [],borderWidth: 1,
+		barThickness : 10,xAxisID: "bar-x-axis1",
+	},
+	{
+      label: 'Tests per million pop',
+	  type: 'bar',
+	  xAxisID: "bar-x-axis1",
+	  data : ['49370', '4104', '68527', '76071', '57743', '60909', '21217', '47194', '2527', '22885', '10687', '28207', '42036', '27756', '22171', '1901', '2359', '72237', '74016'],
+	  backgroundColor: 'rgba(50, 0, 150, 0.5)',borderColor: [],borderWidth: 1,
+	  barThickness : 10,
+    }]
+  },
+  options: {
+	  tooltips: {
+	    mode: 'index',
+	  	reverse: true,
+		intersect: true,
+			callbacks: {
+				label: function(tooltipItem, data) {
+					var index = tooltipItem.index;
+					var ttcases = (data.datasets[1].data[index]);
+					var currentValue = (data.datasets[0].data[index]);
+					var total = (parseInt(data.datasets[1].data[index])) 
+					var mylbl = data.datasets[tooltipItem.datasetIndex].label
+					var percentage = parseFloat((currentValue/total*100).toFixed(1));
+					if (tooltipItem.datasetIndex == 1){return mylbl+': ' + ttcases ;}
+					if (tooltipItem.datasetIndex == 0){return mylbl+': ' + currentValue + ' ('+ percentage+'%)';}
+				},
+			}
+	  },
+    responsive: false,
+	title:{
+		display: true,
+		text: ["Countries with Total Cases above 50 K"],
+		fontSize: 14,
+	},
+	legend: {
+      display: true,
+      position: "bottom",
+	  reverse: true,
+      labels: {fontColor: "#333",fontSize: 13}
+    },
+    scales: {
+      xAxes: [{
+	  stacked : true,
+	  id : "bar-x-axis1",
+		//barThickness : 30,
+        ticks: {maxRotation: 0,minRotation: 60,fontSize: 14,offsetGridLines: false,}
+      }],
+      yAxes: [{
+	  stacked : false,
+        ticks: {beginAtZero: true,fontSize: 16,
+				callback: function(value, index, values) {//needed to change the scientific notation results from using logarithmic scale
+						return value/1e3 + 'K';//pass tick values as a string into Number function
+				      }
+		}
+      }]
+    }
+  }
+});
+
+</script>
