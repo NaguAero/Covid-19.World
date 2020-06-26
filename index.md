@@ -1,8 +1,5 @@
 ---
 layout: default
-.page__content {
-  text-align: justify;
-}
 ---
 # Covid-19: Initial Growth Trend
 The novel coronavirus COVID-19 is affecting around 200 countries and territories around the world. 
@@ -22,3 +19,5 @@ Based on the growth of the cases, most of the countries can be classified in to 
 * India entered in the group of top 10 countries with maximum number of total cases (May 24).
 * India moved one place up by crossing Italy (June 5). India moved two places up by crossing Germany and France (May 31). India moved one place up by crossing Turkey on May 28.
 * India is among the top 4 countries with maximum number of Active Cases.
+## Plots
+<canvas id="allpie" width="400" height="500"></canvas>
