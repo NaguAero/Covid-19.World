@@ -1,0 +1,10 @@
+---
+layout: default
+---
+# Covid-19: Initial Growth Trend
+The novel coronavirus COVID-19 is affecting around 200 countries and territories around the world. 
+The timeline of the first case recorded in every country differed. In order to compare the data of the affected countries, 'day ZERO' 
+is defined as the day when the country recorded its first case of novel Covid-19. The 'day ZERO' is identified from each country's respective local/official news reported online. 
+The line chart (growth of cases across countries) shows the growth of cases in the countries. 
+This comparison primarily provides the information about the initial spread of the novel Covid-19 and the timeline associated with it. 
+Based on the growth of the cases, most of the countries can be classified in to two categories.
