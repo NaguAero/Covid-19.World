@@ -3,9 +3,10 @@
 In the view of the current pandemic created by novel Covid-19, it is essential to analyze the data in a simpler and understandable manner.
 An attempt is presented here.
 
-# Data in json format
+## Data in json format
 
 Actively working to update the data. The json file will be daily updated.
+Todaydata.json contains the daily cases across the world and total in the name "World".
 
 ## Json file description:
 {
