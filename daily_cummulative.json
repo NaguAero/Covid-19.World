@@ -670,23 +670,27 @@
   },
   "Jul 07": {
    "daily_confirmed": "208324",
-   "daily_deaths": "5508"
+   "daily_deaths": "5524"
   },
   "Jul 08": {
    "daily_confirmed": "213687",
-   "daily_deaths": "5507"
+   "daily_deaths": "5524"
   },
   "Jul 09": {
    "daily_confirmed": "223640",
-   "daily_deaths": "5400"
+   "daily_deaths": "5418"
   },
   "Jul 10": {
    "daily_confirmed": "236918",
-   "daily_deaths": "5416"
+   "daily_deaths": "5435"
   },
   "Jul 11": {
    "daily_confirmed": "214786",
-   "daily_deaths": "4995"
+   "daily_deaths": "5015"
+  },
+  "Jul 12": {
+   "daily_confirmed": "194677",
+   "daily_deaths": "3956"
   }
  },
  "cummulative": {
@@ -1527,28 +1531,33 @@
   },
   "Jul 07": {
    "cum_cases": "11944474",
-   "cum_active": "4553694",
-   "cum_deaths": "545716"
+   "cum_active": "4553678",
+   "cum_deaths": "545732"
   },
   "Jul 08": {
    "cum_cases": "12158161",
-   "cum_active": "4583494",
-   "cum_deaths": "551223"
+   "cum_active": "4583461",
+   "cum_deaths": "551256"
   },
   "Jul 09": {
    "cum_cases": "12381801",
-   "cum_active": "4645544",
-   "cum_deaths": "556623"
+   "cum_active": "4645493",
+   "cum_deaths": "556674"
   },
   "Jul 10": {
    "cum_cases": "12618719",
-   "cum_active": "4729289",
-   "cum_deaths": "562039"
+   "cum_active": "4729219",
+   "cum_deaths": "562109"
   },
   "Jul 11": {
    "cum_cases": "12833505",
-   "cum_active": "4792532",
-   "cum_deaths": "567034"
+   "cum_active": "4793468",
+   "cum_deaths": "567124"
+  },
+  "Jul 12": {
+   "cum_cases": "13028182",
+   "cum_active": "4881579",
+   "cum_deaths": "571080"
   }
  }
 }
