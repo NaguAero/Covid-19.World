@@ -297,7 +297,7 @@ function plot_daily_testedRate(id, data){
       },
       }],
       yAxes: [{
-	  ticks: {beginAtZero: true,fontSize: 16, offsetGridLines: false, autoSkip: true,max: 65, min: 0,
+	  ticks: {beginAtZero: true,fontSize: 16, offsetGridLines: false, autoSkip: true,max: 70, min: 0,
 				  callback: function(value, index, values) {//needed to change the scientific notation results from using logarithmic scale
 					  return value ;//pass tick values as a string into Number function
 				      }
