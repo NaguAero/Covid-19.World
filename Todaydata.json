@@ -1,826 +1,834 @@
 {
  "World": {
-  "Total_Cases": 14251200,
-  "Active_Cases": 5139850,
-  "Recovered": 8510588,
-  "Deceased": 600762,
+  "Total_Cases": 14909279,
+  "Active_Cases": 5338797,
+  "Recovered": 8956011,
+  "Deceased": 614471,
   "Population": 0,
   "Total_Tests": 0
  },
  "USA": {
-  "Total_Cases": 3778138,
-  "Active_Cases": 1894230,
-  "Recovered": 1741632,
-  "Deceased": 142276,
-  "Population": 331092264,
-  "Total_Tests": 46634931
+  "Total_Cases": 3964361,
+  "Active_Cases": 1969285,
+  "Recovered": 1851157,
+  "Deceased": 143919,
+  "Population": 331108144,
+  "Total_Tests": 49194291
  },
  "Brazil": {
-  "Total_Cases": 2049140,
-  "Active_Cases": 604401,
-  "Recovered": 1366775,
-  "Deceased": 77964,
-  "Population": 212628252,
+  "Total_Cases": 2121645,
+  "Active_Cases": 632192,
+  "Recovered": 1409202,
+  "Deceased": 80251,
+  "Population": 212640618,
   "Total_Tests": 4911063
  },
  "India": {
-  "Total_Cases": 1055932,
-  "Active_Cases": 364963,
-  "Recovered": 664461,
-  "Deceased": 26508,
-  "Population": 1380604191,
-  "Total_Tests": 13433742
+  "Total_Cases": 1171356,
+  "Active_Cases": 407690,
+  "Recovered": 735336,
+  "Deceased": 28330,
+  "Population": 1380715311,
+  "Total_Tests": 14381303
  },
  "Russia": {
-  "Total_Cases": 765437,
-  "Active_Cases": 206327,
-  "Recovered": 546863,
-  "Deceased": 12247,
-  "Population": 145937516,
-  "Total_Tests": 24676930
- },
- "Peru": {
-  "Total_Cases": 345537,
-  "Active_Cases": 98756,
-  "Recovered": 233982,
-  "Deceased": 12799,
-  "Population": 32991214,
-  "Total_Tests": 2023996
+  "Total_Cases": 783328,
+  "Active_Cases": 208364,
+  "Recovered": 562384,
+  "Deceased": 12580,
+  "Population": 145938027,
+  "Total_Tests": 25449167
  },
  "South Africa": {
-  "Total_Cases": 337594,
-  "Active_Cases": 154607,
-  "Recovered": 178183,
-  "Deceased": 4804,
-  "Population": 59340708,
-  "Total_Tests": 2373053
+  "Total_Cases": 373628,
+  "Active_Cases": 173590,
+  "Recovered": 194865,
+  "Deceased": 5173,
+  "Population": 59346837,
+  "Total_Tests": 2505646
+ },
+ "Peru": {
+  "Total_Cases": 357681,
+  "Active_Cases": 99216,
+  "Recovered": 245081,
+  "Deceased": 13384,
+  "Population": 32994980,
+  "Total_Tests": 2084311
  },
  "Mexico": {
-  "Total_Cases": 331298,
-  "Active_Cases": 84552,
-  "Recovered": 208436,
-  "Deceased": 38310,
-  "Population": 128992183,
-  "Total_Tests": 799178
+  "Total_Cases": 349396,
+  "Active_Cases": 87843,
+  "Recovered": 222068,
+  "Deceased": 39485,
+  "Population": 129003279,
+  "Total_Tests": 827951
  },
  "Chile": {
-  "Total_Cases": 326539,
-  "Active_Cases": 21378,
-  "Recovered": 296814,
-  "Deceased": 8347,
-  "Population": 19123557,
-  "Total_Tests": 1370603
+  "Total_Cases": 333029,
+  "Active_Cases": 20404,
+  "Recovered": 303992,
+  "Deceased": 8633,
+  "Population": 19124900,
+  "Total_Tests": 1420390
  },
  "Spain": {
-  "Total_Cases": 307335,
+  "Total_Cases": 311916,
   "Active_Cases": 0,
   "Recovered": 0,
-  "Deceased": 28420,
-  "Population": 46755662,
-  "Total_Tests": 6026446
+  "Deceased": 28422,
+  "Population": 46755810,
+  "Total_Tests": 6320836
  },
  "UK": {
-  "Total_Cases": 294066,
+  "Total_Cases": 295372,
   "Active_Cases": 0,
   "Recovered": 0,
-  "Deceased": 45273,
-  "Population": 67902582,
-  "Total_Tests": 13112764
+  "Deceased": 45312,
+  "Population": 67905499,
+  "Total_Tests": 13459190
  },
  "Iran": {
-  "Total_Cases": 271606,
-  "Active_Cases": 22327,
-  "Recovered": 235300,
-  "Deceased": 13979,
-  "Population": 84038878,
-  "Total_Tests": 2123518
+  "Total_Cases": 278827,
+  "Active_Cases": 21842,
+  "Recovered": 242351,
+  "Deceased": 14634,
+  "Population": 84047689,
+  "Total_Tests": 2201958
  },
  "Pakistan": {
-  "Total_Cases": 261916,
-  "Active_Cases": 57885,
-  "Recovered": 198509,
-  "Deceased": 5522,
-  "Population": 221061085,
-  "Total_Tests": 1699101
+  "Total_Cases": 266096,
+  "Active_Cases": 52427,
+  "Recovered": 208030,
+  "Deceased": 5639,
+  "Population": 221096300,
+  "Total_Tests": 1758551
  },
  "Saudi Arabia": {
-  "Total_Cases": 248416,
-  "Active_Cases": 51751,
-  "Recovered": 194218,
-  "Deceased": 2447,
-  "Population": 34836271,
-  "Total_Tests": 2622786
+  "Total_Cases": 255825,
+  "Active_Cases": 46009,
+  "Recovered": 207259,
+  "Deceased": 2557,
+  "Population": 34840718,
+  "Total_Tests": 2784874
  },
  "Italy": {
-  "Total_Cases": 243967,
-  "Active_Cases": 12456,
-  "Recovered": 196483,
-  "Deceased": 35028,
-  "Population": 60457407,
-  "Total_Tests": 6154259
+  "Total_Cases": 244624,
+  "Active_Cases": 12404,
+  "Recovered": 197162,
+  "Deceased": 35058,
+  "Population": 60456681,
+  "Total_Tests": 6262302
  },
  "Turkey": {
-  "Total_Cases": 217799,
-  "Active_Cases": 12507,
-  "Recovered": 199834,
-  "Deceased": 5458,
-  "Population": 84378767,
-  "Total_Tests": 4191124
- },
- "Germany": {
-  "Total_Cases": 202442,
-  "Active_Cases": 5780,
-  "Recovered": 187500,
-  "Deceased": 9162,
-  "Population": 83796659,
-  "Total_Tests": 6884614
+  "Total_Cases": 220572,
+  "Active_Cases": 12062,
+  "Recovered": 203002,
+  "Deceased": 5508,
+  "Population": 84386202,
+  "Total_Tests": 4316781
  },
  "Bangladesh": {
-  "Total_Cases": 202066,
-  "Active_Cases": 89387,
-  "Recovered": 110098,
-  "Deceased": 2581,
-  "Population": 164761811,
-  "Total_Tests": 1017674
+  "Total_Cases": 210510,
+  "Active_Cases": 92404,
+  "Recovered": 115397,
+  "Deceased": 2709,
+  "Population": 164775250,
+  "Total_Tests": 1054559
  },
  "Colombia": {
-  "Total_Cases": 182140,
-  "Active_Cases": 95215,
-  "Recovered": 80637,
-  "Deceased": 6288,
-  "Population": 50906643,
-  "Total_Tests": 1159562
+  "Total_Cases": 204005,
+  "Active_Cases": 101272,
+  "Recovered": 95804,
+  "Deceased": 6929,
+  "Population": 50911086,
+  "Total_Tests": 1236569
+ },
+ "Germany": {
+  "Total_Cases": 203557,
+  "Active_Cases": 6582,
+  "Recovered": 187800,
+  "Deceased": 9175,
+  "Population": 83798849,
+  "Total_Tests": 6884614
  },
  "France": {
-  "Total_Cases": 174674,
-  "Active_Cases": 65289,
+  "Total_Cases": 176754,
+  "Active_Cases": 67344,
   "Recovered": 79233,
-  "Deceased": 30152,
-  "Population": 65280436,
-  "Total_Tests": 2618722
+  "Deceased": 30177,
+  "Population": 65281616,
+  "Total_Tests": 2841473
  },
  "Argentina": {
-  "Total_Cases": 119301,
-  "Active_Cases": 64490,
-  "Recovered": 52607,
-  "Deceased": 2204,
-  "Population": 45214244,
-  "Total_Tests": 531753
+  "Total_Cases": 130774,
+  "Active_Cases": 72488,
+  "Recovered": 55913,
+  "Deceased": 2373,
+  "Population": 45217640,
+  "Total_Tests": 552306
  },
  "Canada": {
-  "Total_Cases": 109669,
-  "Active_Cases": 4141,
-  "Recovered": 96689,
-  "Deceased": 8839,
-  "Population": 37756958,
-  "Total_Tests": 3438041
+  "Total_Cases": 111124,
+  "Active_Cases": 4792,
+  "Recovered": 97474,
+  "Deceased": 8858,
+  "Population": 37759668,
+  "Total_Tests": 3573630
  },
  "Qatar": {
-  "Total_Cases": 106308,
-  "Active_Cases": 3131,
-  "Recovered": 103023,
-  "Deceased": 154,
+  "Total_Cases": 107430,
+  "Active_Cases": 3079,
+  "Recovered": 104191,
+  "Deceased": 160,
   "Population": 2807805,
-  "Total_Tests": 438990
+  "Total_Tests": 451168
  },
  "Iraq": {
-  "Total_Cases": 90220,
-  "Active_Cases": 28037,
-  "Recovered": 58492,
-  "Deceased": 3691,
-  "Population": 40256584,
-  "Total_Tests": 777287
- },
- "Egypt": {
-  "Total_Cases": 86474,
-  "Active_Cases": 54984,
-  "Recovered": 27302,
-  "Deceased": 4188,
-  "Population": 102410895,
-  "Total_Tests": 135000
+  "Total_Cases": 97159,
+  "Active_Cases": 28259,
+  "Recovered": 64950,
+  "Deceased": 3950,
+  "Population": 40264000,
+  "Total_Tests": 809522
  },
  "Indonesia": {
-  "Total_Cases": 84882,
-  "Active_Cases": 37598,
-  "Recovered": 43268,
-  "Deceased": 4016,
-  "Population": 273650409,
-  "Total_Tests": 1201014
+  "Total_Cases": 89869,
+  "Active_Cases": 37083,
+  "Recovered": 48466,
+  "Deceased": 4320,
+  "Population": 273674103,
+  "Total_Tests": 1257807
+ },
+ "Egypt": {
+  "Total_Cases": 88402,
+  "Active_Cases": 55126,
+  "Recovered": 28924,
+  "Deceased": 4352,
+  "Population": 102426739,
+  "Total_Tests": 135000
  },
  "Sweden": {
-  "Total_Cases": 77281,
+  "Total_Cases": 78166,
   "Active_Cases": 0,
   "Recovered": 0,
-  "Deceased": 5619,
-  "Population": 10102161,
+  "Deceased": 5646,
+  "Population": 10102676,
   "Total_Tests": 681820
  },
  "Ecuador": {
-  "Total_Cases": 72444,
-  "Active_Cases": 35790,
-  "Recovered": 31404,
-  "Deceased": 5250,
-  "Population": 17654176,
-  "Total_Tests": 199115
+  "Total_Cases": 74620,
+  "Active_Cases": 37347,
+  "Recovered": 31955,
+  "Deceased": 5318,
+  "Population": 17656373,
+  "Total_Tests": 204162
  },
  "Kazakhstan": {
-  "Total_Cases": 68703,
-  "Active_Cases": 28072,
-  "Recovered": 40256,
-  "Deceased": 375,
-  "Population": 18786397,
-  "Total_Tests": 1737546
- },
- "Belarus": {
-  "Total_Cases": 65953,
-  "Active_Cases": 7602,
-  "Recovered": 57856,
-  "Deceased": 495,
-  "Population": 9449170,
-  "Total_Tests": 1183007
- },
- "Oman": {
-  "Total_Cases": 65504,
-  "Active_Cases": 22424,
-  "Recovered": 42772,
-  "Deceased": 308,
-  "Population": 5111327,
-  "Total_Tests": 266845
+  "Total_Cases": 73468,
+  "Active_Cases": 27507,
+  "Recovered": 45376,
+  "Deceased": 585,
+  "Population": 18788237,
+  "Total_Tests": 1791293
  },
  "Philippines": {
-  "Total_Cases": 65304,
-  "Active_Cases": 41464,
-  "Recovered": 22067,
-  "Deceased": 1773,
-  "Population": 109643012,
-  "Total_Tests": 1117568
+  "Total_Cases": 70764,
+  "Active_Cases": 45646,
+  "Recovered": 23281,
+  "Deceased": 1837,
+  "Population": 109654968,
+  "Total_Tests": 1190937
+ },
+ "Oman": {
+  "Total_Cases": 69887,
+  "Active_Cases": 22942,
+  "Recovered": 46608,
+  "Deceased": 337,
+  "Population": 5112395,
+  "Total_Tests": 279446
+ },
+ "Belarus": {
+  "Total_Cases": 66348,
+  "Active_Cases": 7249,
+  "Recovered": 58592,
+  "Deceased": 507,
+  "Population": 9449145,
+  "Total_Tests": 1202214
  },
  "Belgium": {
-  "Total_Cases": 63499,
-  "Active_Cases": 36410,
-  "Recovered": 17289,
-  "Deceased": 9800,
-  "Population": 11591989,
+  "Total_Cases": 64094,
+  "Active_Cases": 36968,
+  "Recovered": 17321,
+  "Deceased": 9805,
+  "Population": 11592401,
   "Total_Tests": 1444885
  },
+ "Bolivia": {
+  "Total_Cases": 60991,
+  "Active_Cases": 39898,
+  "Recovered": 18875,
+  "Deceased": 2218,
+  "Population": 11681061,
+  "Total_Tests": 132254
+ },
  "Kuwait": {
-  "Total_Cases": 58904,
-  "Active_Cases": 9477,
-  "Recovered": 49020,
-  "Deceased": 407,
-  "Population": 4273206,
-  "Total_Tests": 457340
+  "Total_Cases": 60434,
+  "Active_Cases": 9103,
+  "Recovered": 50919,
+  "Deceased": 412,
+  "Population": 4273724,
+  "Total_Tests": 466861
  },
  "Ukraine": {
-  "Total_Cases": 58111,
-  "Active_Cases": 26109,
-  "Recovered": 30525,
-  "Deceased": 1477,
-  "Population": 43720140,
-  "Total_Tests": 864596
+  "Total_Cases": 60166,
+  "Active_Cases": 26449,
+  "Recovered": 32199,
+  "Deceased": 1518,
+  "Population": 43717998,
+  "Total_Tests": 894393
  },
  "UAE": {
-  "Total_Cases": 56711,
-  "Active_Cases": 7456,
-  "Recovered": 48917,
-  "Deceased": 338,
-  "Population": 9895550,
-  "Total_Tests": 4410763
+  "Total_Cases": 57498,
+  "Active_Cases": 7193,
+  "Recovered": 49964,
+  "Deceased": 341,
+  "Population": 9896530,
+  "Total_Tests": 4576202
  },
- "Bolivia": {
-  "Total_Cases": 56102,
-  "Active_Cases": 36171,
-  "Recovered": 17882,
-  "Deceased": 2049,
-  "Population": 11679756,
-  "Total_Tests": 120004
+ "Dominican Republic": {
+  "Total_Cases": 54797,
+  "Active_Cases": 27822,
+  "Recovered": 25976,
+  "Deceased": 999,
+  "Population": 10853599,
+  "Total_Tests": 216481
+ },
+ "Panama": {
+  "Total_Cases": 54426,
+  "Active_Cases": 24135,
+  "Recovered": 29164,
+  "Deceased": 1127,
+  "Population": 4318125,
+  "Total_Tests": 189941
+ },
+ "Israel": {
+  "Total_Cases": 52687,
+  "Active_Cases": 29883,
+  "Recovered": 22382,
+  "Deceased": 422,
+  "Population": 9197590,
+  "Total_Tests": 1503999
  },
  "Netherlands": {
-  "Total_Cases": 51581,
+  "Total_Cases": 52073,
   "Active_Cases": 0,
   "Recovered": 0,
   "Deceased": 6136,
-  "Population": 17136690,
-  "Total_Tests": 764079
- },
- "Dominican Republic": {
-  "Total_Cases": 51519,
-  "Active_Cases": 25941,
-  "Recovered": 24607,
-  "Deceased": 971,
-  "Population": 10852708,
-  "Total_Tests": 209252
- },
- "Panama": {
-  "Total_Cases": 51408,
-  "Active_Cases": 23850,
-  "Recovered": 26520,
-  "Deceased": 1038,
-  "Population": 4317567,
-  "Total_Tests": 180814
+  "Population": 17137000,
+  "Total_Tests": 851885
  },
  "Portugal": {
-  "Total_Cases": 48390,
-  "Active_Cases": 13553,
-  "Recovered": 33153,
-  "Deceased": 1684,
-  "Population": 10195211,
-  "Total_Tests": 1413519
+  "Total_Cases": 48898,
+  "Active_Cases": 13432,
+  "Recovered": 33769,
+  "Deceased": 1697,
+  "Population": 10194968,
+  "Total_Tests": 1466662
  },
  "Singapore": {
-  "Total_Cases": 47655,
-  "Active_Cases": 3795,
-  "Recovered": 43833,
+  "Total_Cases": 48434,
+  "Active_Cases": 3823,
+  "Recovered": 44584,
   "Deceased": 27,
-  "Population": 5852421,
+  "Population": 5852798,
   "Total_Tests": 1009532
  },
- "Israel": {
-  "Total_Cases": 47459,
-  "Active_Cases": 26323,
-  "Recovered": 20744,
-  "Deceased": 392,
-  "Population": 9197590,
-  "Total_Tests": 1411893
- },
  "Poland": {
-  "Total_Cases": 39746,
-  "Active_Cases": 8204,
-  "Recovered": 29924,
-  "Deceased": 1618,
-  "Population": 37844558,
-  "Total_Tests": 1936889
+  "Total_Cases": 40782,
+  "Active_Cases": 8375,
+  "Recovered": 30771,
+  "Deceased": 1636,
+  "Population": 37844219,
+  "Total_Tests": 1971736
  },
  "Romania": {
-  "Total_Cases": 36691,
-  "Active_Cases": 12194,
-  "Recovered": 22488,
-  "Deceased": 2009,
-  "Population": 19230998,
-  "Total_Tests": 943733
- },
- "Bahrain": {
-  "Total_Cases": 35473,
-  "Active_Cases": 4161,
-  "Recovered": 31188,
-  "Deceased": 124,
-  "Population": 1703418,
-  "Total_Tests": 710686
- },
- "Nigeria": {
-  "Total_Cases": 35454,
-  "Active_Cases": 20049,
-  "Recovered": 14633,
-  "Deceased": 772,
-  "Population": 206326265,
-  "Total_Tests": 206422
- },
- "Afghanistan": {
-  "Total_Cases": 35289,
-  "Active_Cases": 10899,
-  "Recovered": 23243,
-  "Deceased": 1147,
-  "Population": 38961422,
-  "Total_Tests": 83118
- },
- "Armenia": {
-  "Total_Cases": 34462,
-  "Active_Cases": 10708,
-  "Recovered": 23123,
-  "Deceased": 631,
-  "Population": 2963509,
-  "Total_Tests": 145083
+  "Total_Cases": 39133,
+  "Active_Cases": 12605,
+  "Recovered": 24454,
+  "Deceased": 2074,
+  "Population": 19229952,
+  "Total_Tests": 984396
  },
  "Guatemala": {
-  "Total_Cases": 33809,
-  "Active_Cases": 27377,
-  "Recovered": 4989,
-  "Deceased": 1443,
-  "Population": 17928764,
-  "Total_Tests": 64590
+  "Total_Cases": 39039,
+  "Active_Cases": 11998,
+  "Recovered": 25539,
+  "Deceased": 1502,
+  "Population": 17931484,
+  "Total_Tests": 121125
  },
- "Switzerland": {
-  "Total_Cases": 33492,
-  "Active_Cases": 1623,
-  "Recovered": 29900,
-  "Deceased": 1969,
-  "Population": 8657499,
-  "Total_Tests": 722116
+ "Nigeria": {
+  "Total_Cases": 37225,
+  "Active_Cases": 21091,
+  "Recovered": 15333,
+  "Deceased": 801,
+  "Population": 206368270,
+  "Total_Tests": 214228
+ },
+ "Bahrain": {
+  "Total_Cases": 36936,
+  "Active_Cases": 3843,
+  "Recovered": 32965,
+  "Deceased": 128,
+  "Population": 1703906,
+  "Total_Tests": 735492
+ },
+ "Afghanistan": {
+  "Total_Cases": 35615,
+  "Active_Cases": 10688,
+  "Recovered": 23741,
+  "Deceased": 1186,
+  "Population": 38968626,
+  "Total_Tests": 84202
+ },
+ "Armenia": {
+  "Total_Cases": 35254,
+  "Active_Cases": 10386,
+  "Recovered": 24206,
+  "Deceased": 662,
+  "Population": 2963555,
+  "Total_Tests": 148180
  },
  "Honduras": {
-  "Total_Cases": 31745,
-  "Active_Cases": 27323,
-  "Recovered": 3565,
-  "Deceased": 857,
-  "Population": 9911089,
-  "Total_Tests": 49308
+  "Total_Cases": 34611,
+  "Active_Cases": 29771,
+  "Recovered": 3905,
+  "Deceased": 935,
+  "Population": 9912381,
+  "Total_Tests": 78825
  },
- "Azerbaijan": {
-  "Total_Cases": 27133,
-  "Active_Cases": 8334,
-  "Recovered": 18450,
-  "Deceased": 349,
-  "Population": 10143254,
-  "Total_Tests": 619786
+ "Switzerland": {
+  "Total_Cases": 33742,
+  "Active_Cases": 1470,
+  "Recovered": 30300,
+  "Deceased": 1972,
+  "Population": 8658017,
+  "Total_Tests": 732835
  },
  "Ghana": {
-  "Total_Cases": 26572,
-  "Active_Cases": 3513,
-  "Recovered": 22915,
-  "Deceased": 144,
-  "Population": 31097968,
-  "Total_Tests": 341919
+  "Total_Cases": 28989,
+  "Active_Cases": 3505,
+  "Recovered": 25331,
+  "Deceased": 153,
+  "Population": 31103295,
+  "Total_Tests": 349752
+ },
+ "Kyrgyzstan": {
+  "Total_Cases": 28251,
+  "Active_Cases": 12396,
+  "Recovered": 14776,
+  "Deceased": 1079,
+  "Population": 6529474,
+  "Total_Tests": 262894
+ },
+ "Azerbaijan": {
+  "Total_Cases": 27890,
+  "Active_Cases": 8037,
+  "Recovered": 19490,
+  "Deceased": 363,
+  "Population": 10144003,
+  "Total_Tests": 634698
  },
  "Ireland": {
-  "Total_Cases": 25730,
-  "Active_Cases": 614,
+  "Total_Cases": 25766,
+  "Active_Cases": 649,
   "Recovered": 23364,
-  "Deceased": 1752,
-  "Population": 4940188,
-  "Total_Tests": 541574
+  "Deceased": 1753,
+  "Population": 4940639,
+  "Total_Tests": 567819
  },
  "Japan": {
-  "Total_Cases": 23473,
-  "Active_Cases": 3392,
-  "Recovered": 19096,
+  "Total_Cases": 25096,
+  "Active_Cases": 4354,
+  "Recovered": 19757,
   "Deceased": 985,
-  "Population": 126456923,
-  "Total_Tests": 617049
+  "Population": 126453763,
+  "Total_Tests": 639821
  },
  "Algeria": {
-  "Total_Cases": 21948,
-  "Active_Cases": 5461,
-  "Recovered": 15430,
-  "Deceased": 1057,
-  "Population": 43882752,
+  "Total_Cases": 23691,
+  "Active_Cases": 6204,
+  "Recovered": 16400,
+  "Deceased": 1087,
+  "Population": 43889251,
   "Total_Tests": 0
  },
  "Serbia": {
-  "Total_Cases": 20498,
-  "Active_Cases": 5990,
+  "Total_Cases": 21605,
+  "Active_Cases": 7067,
   "Recovered": 14047,
-  "Deceased": 461,
-  "Population": 8735579,
-  "Total_Tests": 542136
+  "Deceased": 491,
+  "Population": 8735292,
+  "Total_Tests": 568750
  },
  "Moldova": {
-  "Total_Cases": 20494,
-  "Active_Cases": 5906,
-  "Recovered": 13913,
-  "Deceased": 675,
-  "Population": 4033493,
-  "Total_Tests": 101180
+  "Total_Cases": 21442,
+  "Active_Cases": 6136,
+  "Recovered": 14599,
+  "Deceased": 707,
+  "Population": 4033417,
+  "Total_Tests": 128076
  },
  "Austria": {
-  "Total_Cases": 19573,
-  "Active_Cases": 1361,
-  "Recovered": 17501,
-  "Deceased": 711,
-  "Population": 9008775,
-  "Total_Tests": 743090
+  "Total_Cases": 19827,
+  "Active_Cases": 1401,
+  "Recovered": 17716,
+  "Deceased": 710,
+  "Population": 9009195,
+  "Total_Tests": 798436
  },
  "Nepal": {
-  "Total_Cases": 17502,
-  "Active_Cases": 5825,
-  "Recovered": 11637,
+  "Total_Cases": 17994,
+  "Active_Cases": 5477,
+  "Recovered": 12477,
   "Deceased": 40,
-  "Population": 29157812,
-  "Total_Tests": 624231
+  "Population": 29162114,
+  "Total_Tests": 636237
+ },
+ "Uzbekistan": {
+  "Total_Cases": 17755,
+  "Active_Cases": 8199,
+  "Recovered": 9463,
+  "Deceased": 93,
+  "Population": 33493488,
+  "Total_Tests": 1377915
  },
  "Morocco": {
-  "Total_Cases": 16726,
-  "Active_Cases": 2102,
-  "Recovered": 14360,
-  "Deceased": 264,
-  "Population": 36929459,
-  "Total_Tests": 973404
+  "Total_Cases": 17562,
+  "Active_Cases": 2154,
+  "Recovered": 15132,
+  "Deceased": 276,
+  "Population": 36933044,
+  "Total_Tests": 1027773
  },
  "Cameroon": {
   "Total_Cases": 16157,
   "Active_Cases": 2056,
   "Recovered": 13728,
   "Deceased": 373,
-  "Population": 26569969,
+  "Population": 26575402,
   "Total_Tests": 135000
  },
- "Uzbekistan": {
-  "Total_Cases": 15896,
-  "Active_Cases": 6813,
-  "Recovered": 9003,
-  "Deceased": 80,
-  "Population": 33489510,
-  "Total_Tests": 1377915
+ "Ivory Coast": {
+  "Total_Cases": 14312,
+  "Active_Cases": 5561,
+  "Recovered": 8659,
+  "Deceased": 92,
+  "Population": 26407518,
+  "Total_Tests": 83753
  },
  "Czechia": {
-  "Total_Cases": 13742,
-  "Active_Cases": 4659,
-  "Recovered": 8725,
-  "Deceased": 358,
-  "Population": 10709937,
-  "Total_Tests": 614297
+  "Total_Cases": 14152,
+  "Active_Cases": 4957,
+  "Recovered": 8836,
+  "Deceased": 359,
+  "Population": 10710099,
+  "Total_Tests": 626610
  },
  "S. Korea": {
-  "Total_Cases": 13711,
-  "Active_Cases": 898,
-  "Recovered": 12519,
-  "Deceased": 294,
-  "Population": 51271329,
-  "Total_Tests": 1460204
- },
- "Ivory Coast": {
-  "Total_Cases": 13696,
-  "Active_Cases": 6002,
-  "Recovered": 7607,
-  "Deceased": 87,
-  "Population": 26402148,
-  "Total_Tests": 81379
- },
- "Denmark": {
-  "Total_Cases": 13173,
-  "Active_Cases": 353,
-  "Recovered": 12209,
-  "Deceased": 611,
-  "Population": 5793167,
-  "Total_Tests": 1306743
- },
- "Kyrgyzstan": {
-  "Total_Cases": 13101,
-  "Active_Cases": 9107,
-  "Recovered": 3821,
-  "Deceased": 173,
-  "Population": 6528591,
-  "Total_Tests": 262894
+  "Total_Cases": 13816,
+  "Active_Cases": 877,
+  "Recovered": 12643,
+  "Deceased": 296,
+  "Population": 51271690,
+  "Total_Tests": 1482390
  },
  "Kenya": {
-  "Total_Cases": 12750,
-  "Active_Cases": 8085,
-  "Recovered": 4440,
-  "Deceased": 225,
-  "Population": 53816288,
-  "Total_Tests": 238163
+  "Total_Cases": 13771,
+  "Active_Cases": 7917,
+  "Recovered": 5616,
+  "Deceased": 238,
+  "Population": 53826019,
+  "Total_Tests": 246361
+ },
+ "Denmark": {
+  "Total_Cases": 13302,
+  "Active_Cases": 430,
+  "Recovered": 12261,
+  "Deceased": 611,
+  "Population": 5793334,
+  "Total_Tests": 1354882
  },
  "El Salvador": {
-  "Total_Cases": 11508,
-  "Active_Cases": 4624,
-  "Recovered": 6560,
-  "Deceased": 324,
-  "Population": 6487729,
-  "Total_Tests": 207024
+  "Total_Cases": 12582,
+  "Active_Cases": 5265,
+  "Recovered": 6965,
+  "Deceased": 352,
+  "Population": 6487997,
+  "Total_Tests": 214443
  },
  "Australia": {
-  "Total_Cases": 11441,
-  "Active_Cases": 3162,
-  "Recovered": 8161,
-  "Deceased": 118,
-  "Population": 25512702,
-  "Total_Tests": 3413831
+  "Total_Cases": 12428,
+  "Active_Cases": 3858,
+  "Recovered": 8444,
+  "Deceased": 126,
+  "Population": 25515126,
+  "Total_Tests": 3584339
  },
  "Venezuela": {
-  "Total_Cases": 11191,
-  "Active_Cases": 7232,
-  "Recovered": 3852,
-  "Deceased": 107,
-  "Population": 28431883,
-  "Total_Tests": 1420066
- },
- "Sudan": {
-  "Total_Cases": 10682,
-  "Active_Cases": 4372,
-  "Recovered": 5637,
-  "Deceased": 673,
-  "Population": 43887442,
-  "Total_Tests": 401
+  "Total_Cases": 12334,
+  "Active_Cases": 5374,
+  "Recovered": 6844,
+  "Deceased": 116,
+  "Population": 28431225,
+  "Total_Tests": 1435142
  },
  "Costa Rica": {
-  "Total_Cases": 9969,
-  "Active_Cases": 7104,
-  "Recovered": 2818,
-  "Deceased": 47,
-  "Population": 5096191,
-  "Total_Tests": 65819
+  "Total_Cases": 11534,
+  "Active_Cases": 8449,
+  "Recovered": 3019,
+  "Deceased": 66,
+  "Population": 5096572,
+  "Total_Tests": 68755
  },
- "Norway": {
-  "Total_Cases": 9028,
-  "Active_Cases": 635,
-  "Recovered": 8138,
-  "Deceased": 255,
-  "Population": 5423157,
-  "Total_Tests": 397106
+ "Sudan": {
+  "Total_Cases": 10992,
+  "Active_Cases": 4592,
+  "Recovered": 5707,
+  "Deceased": 693,
+  "Population": 43895856,
+  "Total_Tests": 401
  },
  "Ethiopia": {
-  "Total_Cases": 8803,
-  "Active_Cases": 6223,
+  "Total_Cases": 10207,
+  "Active_Cases": 7607,
   "Recovered": 2430,
-  "Deceased": 150,
-  "Population": 115067656,
+  "Deceased": 170,
+  "Population": 115091068,
   "Total_Tests": 250604
  },
  "North Macedonia": {
-  "Total_Cases": 8786,
-  "Active_Cases": 3704,
-  "Recovered": 4676,
-  "Deceased": 406,
-  "Population": 2083370,
-  "Total_Tests": 83216
- },
- "Malaysia": {
-  "Total_Cases": 8764,
-  "Active_Cases": 96,
-  "Recovered": 8546,
-  "Deceased": 122,
-  "Population": 32383712,
-  "Total_Tests": 868394
- },
- "Senegal": {
-  "Total_Cases": 8669,
-  "Active_Cases": 2647,
-  "Recovered": 5859,
-  "Deceased": 163,
-  "Population": 16759682,
-  "Total_Tests": 95942
- },
- "Bulgaria": {
-  "Total_Cases": 8442,
-  "Active_Cases": 4112,
-  "Recovered": 4033,
-  "Deceased": 297,
-  "Population": 6945696,
-  "Total_Tests": 201363
- },
- "DRC": {
-  "Total_Cases": 8324,
-  "Active_Cases": 3818,
-  "Recovered": 4313,
-  "Deceased": 193,
-  "Population": 89652723,
-  "Total_Tests": 0
+  "Total_Cases": 9412,
+  "Active_Cases": 4040,
+  "Recovered": 4940,
+  "Deceased": 432,
+  "Population": 2083369,
+  "Total_Tests": 88179
  },
  "Palestine": {
-  "Total_Cases": 8200,
-  "Active_Cases": 6549,
-  "Recovered": 1596,
-  "Deceased": 55,
-  "Population": 5105843,
+  "Total_Cases": 9228,
+  "Active_Cases": 7232,
+  "Recovered": 1932,
+  "Deceased": 64,
+  "Population": 5106818,
   "Total_Tests": 155355
  },
+ "Norway": {
+  "Total_Cases": 9049,
+  "Active_Cases": 656,
+  "Recovered": 8138,
+  "Deceased": 255,
+  "Population": 5423504,
+  "Total_Tests": 407311
+ },
+ "Senegal": {
+  "Total_Cases": 8985,
+  "Active_Cases": 2767,
+  "Recovered": 6044,
+  "Deceased": 174,
+  "Population": 16763312,
+  "Total_Tests": 97662
+ },
+ "Bulgaria": {
+  "Total_Cases": 8929,
+  "Active_Cases": 4416,
+  "Recovered": 4205,
+  "Deceased": 308,
+  "Population": 6945270,
+  "Total_Tests": 210207
+ },
+ "Malaysia": {
+  "Total_Cases": 8815,
+  "Active_Cases": 130,
+  "Recovered": 8562,
+  "Deceased": 123,
+  "Population": 32387111,
+  "Total_Tests": 902439
+ },
  "Bosnia and Herzegovina": {
-  "Total_Cases": 8161,
-  "Active_Cases": 4267,
-  "Recovered": 3648,
-  "Deceased": 246,
-  "Population": 3279759,
-  "Total_Tests": 119550
+  "Total_Cases": 8787,
+  "Active_Cases": 4520,
+  "Recovered": 4003,
+  "Deceased": 264,
+  "Population": 3279593,
+  "Total_Tests": 123645
  },
- "Finland": {
-  "Total_Cases": 7318,
-  "Active_Cases": 110,
-  "Recovered": 6880,
-  "Deceased": 328,
-  "Population": 5541135,
-  "Total_Tests": 305908
- },
- "Haiti": {
-  "Total_Cases": 6975,
-  "Active_Cases": 3091,
-  "Recovered": 3738,
-  "Deceased": 146,
-  "Population": 11408509,
-  "Total_Tests": 15645
+ "DRC": {
+  "Total_Cases": 8534,
+  "Active_Cases": 3810,
+  "Recovered": 4528,
+  "Deceased": 196,
+  "Population": 89675142,
+  "Total_Tests": 0
  },
  "Madagascar": {
-  "Total_Cases": 6849,
-  "Active_Cases": 3455,
-  "Recovered": 3339,
-  "Deceased": 55,
-  "Population": 27716681,
-  "Total_Tests": 32491
+  "Total_Cases": 7548,
+  "Active_Cases": 3197,
+  "Recovered": 4286,
+  "Deceased": 65,
+  "Population": 27722535,
+  "Total_Tests": 33943
+ },
+ "Finland": {
+  "Total_Cases": 7351,
+  "Active_Cases": 143,
+  "Recovered": 6880,
+  "Deceased": 328,
+  "Population": 5541206,
+  "Total_Tests": 317837
+ },
+ "Haiti": {
+  "Total_Cases": 7100,
+  "Active_Cases": 2854,
+  "Recovered": 4095,
+  "Deceased": 151,
+  "Population": 11409648,
+  "Total_Tests": 16175
  },
  "Tajikistan": {
-  "Total_Cases": 6834,
-  "Active_Cases": 1248,
-  "Recovered": 5529,
+  "Total_Cases": 6967,
+  "Active_Cases": 1227,
+  "Recovered": 5683,
   "Deceased": 57,
-  "Population": 9545734,
+  "Population": 9547494,
   "Total_Tests": 0
  },
  "French Guiana": {
-  "Total_Cases": 6509,
-  "Active_Cases": 2543,
-  "Recovered": 3932,
-  "Deceased": 34,
-  "Population": 298960,
-  "Total_Tests": 12289
+  "Total_Cases": 6745,
+  "Active_Cases": 1993,
+  "Recovered": 4714,
+  "Deceased": 38,
+  "Population": 299024,
+  "Total_Tests": 33097
  },
  "Guinea": {
-  "Total_Cases": 6430,
-  "Active_Cases": 1158,
-  "Recovered": 5233,
-  "Deceased": 39,
-  "Population": 13145368,
+  "Total_Cases": 6590,
+  "Active_Cases": 959,
+  "Recovered": 5591,
+  "Deceased": 40,
+  "Population": 13148299,
   "Total_Tests": 14407
  },
  "Gabon": {
-  "Total_Cases": 6315,
-  "Active_Cases": 2404,
-  "Recovered": 3865,
+  "Total_Cases": 6433,
+  "Active_Cases": 2353,
+  "Recovered": 4034,
   "Deceased": 46,
-  "Population": 2227686,
-  "Total_Tests": 57095
+  "Population": 2228117,
+  "Total_Tests": 59671
  },
  "Mauritania": {
-  "Total_Cases": 5710,
-  "Active_Cases": 2406,
-  "Recovered": 3153,
-  "Deceased": 151,
-  "Population": 4654026,
+  "Total_Cases": 5923,
+  "Active_Cases": 2136,
+  "Recovered": 3632,
+  "Deceased": 155,
+  "Population": 4655032,
   "Total_Tests": 13842
  },
  "Luxembourg": {
-  "Total_Cases": 5409,
-  "Active_Cases": 965,
-  "Recovered": 4333,
+  "Total_Cases": 5639,
+  "Active_Cases": 1064,
+  "Recovered": 4464,
   "Deceased": 111,
-  "Population": 626395,
-  "Total_Tests": 325741
+  "Population": 626479,
+  "Total_Tests": 348610
  },
  "Djibouti": {
-  "Total_Cases": 5003,
-  "Active_Cases": 138,
-  "Recovered": 4809,
+  "Total_Cases": 5027,
+  "Active_Cases": 87,
+  "Recovered": 4884,
   "Deceased": 56,
-  "Population": 988601,
-  "Total_Tests": 53305
+  "Population": 988719,
+  "Total_Tests": 54671
  },
  "CAR": {
-  "Total_Cases": 4389,
-  "Active_Cases": 3048,
-  "Recovered": 1288,
-  "Deceased": 53,
-  "Population": 4833159,
-  "Total_Tests": 27864
- },
- "Hungary": {
-  "Total_Cases": 4315,
-  "Active_Cases": 497,
-  "Recovered": 3222,
-  "Deceased": 596,
-  "Population": 9659119,
-  "Total_Tests": 305133
+  "Total_Cases": 4548,
+  "Active_Cases": 3093,
+  "Recovered": 1400,
+  "Deceased": 55,
+  "Population": 4833848,
+  "Total_Tests": 28751
  },
  "Croatia": {
-  "Total_Cases": 4253,
-  "Active_Cases": 1204,
-  "Recovered": 2929,
-  "Deceased": 120,
-  "Population": 4103953,
-  "Total_Tests": 102189
+  "Total_Cases": 4422,
+  "Active_Cases": 1116,
+  "Recovered": 3183,
+  "Deceased": 123,
+  "Population": 4103746,
+  "Total_Tests": 105526
  },
- "Greece": {
-  "Total_Cases": 3983,
-  "Active_Cases": 2415,
-  "Recovered": 1374,
-  "Deceased": 194,
-  "Population": 10420441,
-  "Total_Tests": 406040
+ "Hungary": {
+  "Total_Cases": 4347,
+  "Active_Cases": 494,
+  "Recovered": 3257,
+  "Deceased": 596,
+  "Population": 9658919,
+  "Total_Tests": 310930
  },
  "Albania": {
-  "Total_Cases": 3906,
-  "Active_Cases": 1585,
-  "Recovered": 2214,
-  "Deceased": 107,
-  "Population": 2877641,
-  "Total_Tests": 30551
+  "Total_Cases": 4290,
+  "Active_Cases": 1776,
+  "Recovered": 2397,
+  "Deceased": 117,
+  "Population": 2877616,
+  "Total_Tests": 31383
+ },
+ "Greece": {
+  "Total_Cases": 4012,
+  "Active_Cases": 2443,
+  "Recovered": 1374,
+  "Deceased": 195,
+  "Population": 10420026,
+  "Total_Tests": 410766
  },
  "Paraguay": {
-  "Total_Cases": 3457,
-  "Active_Cases": 1948,
-  "Recovered": 1481,
-  "Deceased": 28,
-  "Population": 7136304,
-  "Total_Tests": 100315
+  "Total_Cases": 3748,
+  "Active_Cases": 1544,
+  "Recovered": 2171,
+  "Deceased": 33,
+  "Population": 7137022,
+  "Total_Tests": 106345
+ },
+ "Zambia": {
+  "Total_Cases": 3326,
+  "Active_Cases": 1578,
+  "Recovered": 1620,
+  "Deceased": 128,
+  "Population": 18406122,
+  "Total_Tests": 69296
  },
  "Thailand": {
-  "Total_Cases": 3246,
+  "Total_Cases": 3255,
   "Active_Cases": 92,
-  "Recovered": 3096,
+  "Recovered": 3105,
   "Deceased": 58,
-  "Population": 69808350,
-  "Total_Tests": 603657
+  "Population": 69809782,
+  "Total_Tests": 685316
  },
  "Nicaragua": {
   "Total_Cases": 3147,
   "Active_Cases": 766,
   "Recovered": 2282,
   "Deceased": 99,
-  "Population": 6627957,
+  "Population": 6628603,
   "Total_Tests": 0
  },
  "Somalia": {
-  "Total_Cases": 3106,
-  "Active_Cases": 1569,
-  "Recovered": 1444,
+  "Total_Cases": 3130,
+  "Active_Cases": 1575,
+  "Recovered": 1462,
   "Deceased": 93,
-  "Population": 15908689,
+  "Population": 15912338,
   "Total_Tests": 0
  },
  "Equatorial Guinea": {
@@ -828,368 +836,368 @@
   "Active_Cases": 2178,
   "Recovered": 842,
   "Deceased": 51,
-  "Population": 1404470,
+  "Population": 1404849,
   "Total_Tests": 16000
  },
- "Zambia": {
-  "Total_Cases": 2980,
-  "Active_Cases": 1398,
-  "Recovered": 1462,
-  "Deceased": 120,
-  "Population": 18401885,
-  "Total_Tests": 69296
+ "Malawi": {
+  "Total_Cases": 3045,
+  "Active_Cases": 1801,
+  "Recovered": 1180,
+  "Deceased": 64,
+  "Population": 19151802,
+  "Total_Tests": 24192
  },
  "Maldives": {
-  "Total_Cases": 2913,
-  "Active_Cases": 558,
-  "Recovered": 2340,
+  "Total_Cases": 2999,
+  "Active_Cases": 615,
+  "Recovered": 2369,
   "Deceased": 15,
-  "Population": 540927,
-  "Total_Tests": 65799
+  "Population": 541006,
+  "Total_Tests": 67985
  },
- "Malawi": {
-  "Total_Cases": 2810,
-  "Active_Cases": 1644,
-  "Recovered": 1111,
-  "Deceased": 55,
-  "Population": 19147737,
-  "Total_Tests": 23230
+ "Lebanon": {
+  "Total_Cases": 2905,
+  "Active_Cases": 1302,
+  "Recovered": 1562,
+  "Deceased": 41,
+  "Population": 6823633,
+  "Total_Tests": 216702
+ },
+ "Congo": {
+  "Total_Cases": 2851,
+  "Active_Cases": 2135,
+  "Recovered": 666,
+  "Deceased": 50,
+  "Population": 5524178,
+  "Total_Tests": 0
  },
  "Mayotte": {
-  "Total_Cases": 2782,
-  "Active_Cases": 154,
+  "Total_Cases": 2808,
+  "Active_Cases": 179,
   "Recovered": 2591,
-  "Deceased": 37,
-  "Population": 273058,
+  "Deceased": 38,
+  "Population": 273112,
   "Total_Tests": 13000
  },
  "Sri Lanka": {
-  "Total_Cases": 2703,
-  "Active_Cases": 669,
-  "Recovered": 2023,
+  "Total_Cases": 2730,
+  "Active_Cases": 671,
+  "Recovered": 2048,
   "Deceased": 11,
-  "Population": 21417467,
-  "Total_Tests": 135519
- },
- "Lebanon": {
-  "Total_Cases": 2700,
-  "Active_Cases": 1175,
-  "Recovered": 1485,
-  "Deceased": 40,
-  "Population": 6823882,
-  "Total_Tests": 201186
- },
- "Congo": {
-  "Total_Cases": 2633,
-  "Active_Cases": 1958,
-  "Recovered": 626,
-  "Deceased": 49,
-  "Population": 5523062,
-  "Total_Tests": 0
+  "Population": 21418202,
+  "Total_Tests": 139591
  },
  "Mali": {
-  "Total_Cases": 2472,
-  "Active_Cases": 542,
-  "Recovered": 1809,
+  "Total_Cases": 2475,
+  "Active_Cases": 503,
+  "Recovered": 1851,
   "Deceased": 121,
-  "Population": 20270897,
-  "Total_Tests": 19720
+  "Population": 20275698,
+  "Total_Tests": 19995
  },
  "Cuba": {
-  "Total_Cases": 2444,
-  "Active_Cases": 57,
-  "Recovered": 2300,
+  "Total_Cases": 2449,
+  "Active_Cases": 41,
+  "Recovered": 2321,
   "Deceased": 87,
-  "Population": 11326275,
-  "Total_Tests": 220739
- },
- "South Sudan": {
-  "Total_Cases": 2191,
-  "Active_Cases": 973,
-  "Recovered": 1175,
-  "Deceased": 43,
-  "Population": 11199403,
-  "Total_Tests": 12044
+  "Population": 11326219,
+  "Total_Tests": 226443
  },
  "Montenegro": {
-  "Total_Cases": 2072,
-  "Active_Cases": 1664,
-  "Recovered": 378,
-  "Deceased": 30,
-  "Population": 628070,
-  "Total_Tests": 28912
+  "Total_Cases": 2283,
+  "Active_Cases": 1861,
+  "Recovered": 387,
+  "Deceased": 35,
+  "Population": 628071,
+  "Total_Tests": 30246
  },
- "Estonia": {
-  "Total_Cases": 2021,
-  "Active_Cases": 40,
-  "Recovered": 1912,
-  "Deceased": 69,
-  "Population": 1326578,
-  "Total_Tests": 114278
- },
- "Slovakia": {
-  "Total_Cases": 1976,
-  "Active_Cases": 425,
-  "Recovered": 1523,
-  "Deceased": 28,
-  "Population": 5459771,
-  "Total_Tests": 239795
- },
- "Slovenia": {
-  "Total_Cases": 1940,
-  "Active_Cases": 261,
-  "Recovered": 1568,
-  "Deceased": 111,
-  "Population": 2078952,
-  "Total_Tests": 121424
+ "South Sudan": {
+  "Total_Cases": 2211,
+  "Active_Cases": 991,
+  "Recovered": 1175,
+  "Deceased": 45,
+  "Population": 11200478,
+  "Total_Tests": 12044
  },
  "Cabo Verde": {
-  "Total_Cases": 1939,
-  "Active_Cases": 1018,
-  "Recovered": 902,
-  "Deceased": 19,
-  "Population": 556251,
+  "Total_Cases": 2071,
+  "Active_Cases": 987,
+  "Recovered": 1063,
+  "Deceased": 21,
+  "Population": 556300,
   "Total_Tests": 41634
  },
- "Guinea-Bissau": {
-  "Total_Cases": 1927,
-  "Active_Cases": 1128,
-  "Recovered": 773,
-  "Deceased": 26,
-  "Population": 1969729,
-  "Total_Tests": 1500
+ "Estonia": {
+  "Total_Cases": 2022,
+  "Active_Cases": 41,
+  "Recovered": 1912,
+  "Deceased": 69,
+  "Population": 1326586,
+  "Total_Tests": 114941
  },
- "Iceland": {
-  "Total_Cases": 1922,
-  "Active_Cases": 10,
-  "Recovered": 1902,
-  "Deceased": 10,
-  "Population": 341345,
-  "Total_Tests": 111754
- },
- "Lithuania": {
-  "Total_Cases": 1915,
-  "Active_Cases": 235,
-  "Recovered": 1600,
-  "Deceased": 80,
-  "Population": 2720181,
-  "Total_Tests": 479991
+ "Slovakia": {
+  "Total_Cases": 2021,
+  "Active_Cases": 455,
+  "Recovered": 1538,
+  "Deceased": 28,
+  "Population": 5459793,
+  "Total_Tests": 243562
  },
  "Hong Kong": {
-  "Total_Cases": 1778,
-  "Active_Cases": 492,
-  "Recovered": 1274,
-  "Deceased": 12,
-  "Population": 7499722,
+  "Total_Cases": 2020,
+  "Active_Cases": 682,
+  "Recovered": 1324,
+  "Deceased": 14,
+  "Population": 7500220,
   "Total_Tests": 442256
  },
  "Libya": {
-  "Total_Cases": 1704,
-  "Active_Cases": 1277,
-  "Recovered": 380,
-  "Deceased": 47,
-  "Population": 6875246,
-  "Total_Tests": 38273
+  "Total_Cases": 1980,
+  "Active_Cases": 1490,
+  "Recovered": 441,
+  "Deceased": 49,
+  "Population": 6876012,
+  "Total_Tests": 40135
  },
- "Sierra Leone": {
-  "Total_Cases": 1688,
-  "Active_Cases": 404,
-  "Recovered": 1219,
-  "Deceased": 65,
-  "Population": 7983288,
-  "Total_Tests": 0
+ "Slovenia": {
+  "Total_Cases": 1977,
+  "Active_Cases": 238,
+  "Recovered": 1625,
+  "Deceased": 114,
+  "Population": 2078954,
+  "Total_Tests": 121821
+ },
+ "Lithuania": {
+  "Total_Cases": 1949,
+  "Active_Cases": 268,
+  "Recovered": 1601,
+  "Deceased": 80,
+  "Population": 2719872,
+  "Total_Tests": 486224
+ },
+ "Guinea-Bissau": {
+  "Total_Cases": 1949,
+  "Active_Cases": 1120,
+  "Recovered": 803,
+  "Deceased": 26,
+  "Population": 1970111,
+  "Total_Tests": 1500
+ },
+ "Iceland": {
+  "Total_Cases": 1930,
+  "Active_Cases": 13,
+  "Recovered": 1907,
+  "Deceased": 10,
+  "Population": 341363,
+  "Total_Tests": 113204
  },
  "Eswatini": {
+  "Total_Cases": 1826,
+  "Active_Cases": 953,
+  "Recovered": 850,
+  "Deceased": 23,
+  "Population": 1160790,
+  "Total_Tests": 20784
+ },
+ "Zimbabwe": {
+  "Total_Cases": 1713,
+  "Active_Cases": 1215,
+  "Recovered": 472,
+  "Deceased": 26,
+  "Population": 14873749,
+  "Total_Tests": 103291
+ },
+ "Sierra Leone": {
+  "Total_Cases": 1711,
+  "Active_Cases": 384,
+  "Recovered": 1261,
+  "Deceased": 66,
+  "Population": 7984620,
+  "Total_Tests": 0
+ },
+ "Rwanda": {
+  "Total_Cases": 1629,
+  "Active_Cases": 786,
+  "Recovered": 838,
+  "Deceased": 5,
+  "Population": 12966588,
+  "Total_Tests": 214000
+ },
+ "Yemen": {
   "Total_Cases": 1619,
-  "Active_Cases": 829,
-  "Recovered": 769,
-  "Deceased": 21,
-  "Population": 1160692,
-  "Total_Tests": 17559
+  "Active_Cases": 458,
+  "Recovered": 714,
+  "Deceased": 447,
+  "Population": 29856315,
+  "Total_Tests": 120
  },
  "Benin": {
   "Total_Cases": 1602,
   "Active_Cases": 789,
   "Recovered": 782,
   "Deceased": 31,
-  "Population": 12134565,
+  "Population": 12137177,
   "Total_Tests": 72832
  },
- "Yemen": {
-  "Total_Cases": 1576,
-  "Active_Cases": 441,
-  "Recovered": 695,
-  "Deceased": 440,
-  "Population": 29850918,
-  "Total_Tests": 120
- },
  "New Zealand": {
-  "Total_Cases": 1550,
-  "Active_Cases": 22,
+  "Total_Cases": 1555,
+  "Active_Cases": 27,
   "Recovered": 1506,
   "Deceased": 22,
   "Population": 5002100,
-  "Total_Tests": 441123
- },
- "Rwanda": {
-  "Total_Cases": 1485,
-  "Active_Cases": 670,
-  "Recovered": 811,
-  "Deceased": 4,
-  "Population": 12963948,
-  "Total_Tests": 203790
+  "Total_Tests": 444176
  },
  "Mozambique": {
-  "Total_Cases": 1435,
-  "Active_Cases": 1017,
-  "Recovered": 408,
-  "Deceased": 10,
-  "Population": 31285926,
-  "Total_Tests": 45189
- },
- "Zimbabwe": {
-  "Total_Cases": 1420,
-  "Active_Cases": 958,
-  "Recovered": 438,
-  "Deceased": 24,
-  "Population": 14871975,
-  "Total_Tests": 99701
+  "Total_Cases": 1536,
+  "Active_Cases": 1020,
+  "Recovered": 505,
+  "Deceased": 11,
+  "Population": 31293131,
+  "Total_Tests": 47887
  },
  "Tunisia": {
-  "Total_Cases": 1348,
-  "Active_Cases": 203,
-  "Recovered": 1095,
+  "Total_Cases": 1381,
+  "Active_Cases": 232,
+  "Recovered": 1099,
   "Deceased": 50,
-  "Population": 11824047,
-  "Total_Tests": 83054
- },
- "Jordan": {
-  "Total_Cases": 1214,
-  "Active_Cases": 181,
-  "Recovered": 1022,
-  "Deceased": 11,
-  "Population": 10207607,
-  "Total_Tests": 507217
+  "Population": 11825060,
+  "Total_Tests": 84245
  },
  "Namibia": {
-  "Total_Cases": 1203,
-  "Active_Cases": 1169,
-  "Recovered": 32,
-  "Deceased": 2,
-  "Population": 2542746,
-  "Total_Tests": 17041
+  "Total_Cases": 1366,
+  "Active_Cases": 1302,
+  "Recovered": 57,
+  "Deceased": 7,
+  "Population": 2543124,
+  "Total_Tests": 18454
+ },
+ "Jordan": {
+  "Total_Cases": 1223,
+  "Active_Cases": 184,
+  "Recovered": 1028,
+  "Deceased": 11,
+  "Population": 10208437,
+  "Total_Tests": 519998
  },
  "Latvia": {
-  "Total_Cases": 1189,
-  "Active_Cases": 136,
-  "Recovered": 1022,
+  "Total_Cases": 1193,
+  "Active_Cases": 117,
+  "Recovered": 1045,
   "Deceased": 31,
-  "Population": 1885068,
-  "Total_Tests": 179636
- },
- "Niger": {
-  "Total_Cases": 1102,
-  "Active_Cases": 20,
-  "Recovered": 1013,
-  "Deceased": 69,
-  "Population": 24233258,
-  "Total_Tests": 9052
+  "Population": 1884898,
+  "Total_Tests": 183610
  },
  "Liberia": {
-  "Total_Cases": 1088,
-  "Active_Cases": 499,
-  "Recovered": 519,
+  "Total_Cases": 1107,
+  "Active_Cases": 490,
+  "Recovered": 547,
   "Deceased": 70,
-  "Population": 5062105,
+  "Population": 5063082,
   "Total_Tests": 0
  },
+ "Niger": {
+  "Total_Cases": 1105,
+  "Active_Cases": 22,
+  "Recovered": 1014,
+  "Deceased": 69,
+  "Population": 24240484,
+  "Total_Tests": 9052
+ },
+ "Suriname": {
+  "Total_Cases": 1079,
+  "Active_Cases": 402,
+  "Recovered": 656,
+  "Deceased": 21,
+  "Population": 586910,
+  "Total_Tests": 1244
+ },
  "Uganda": {
-  "Total_Cases": 1062,
-  "Active_Cases": 39,
-  "Recovered": 1023,
+  "Total_Cases": 1072,
+  "Active_Cases": 114,
+  "Recovered": 958,
   "Deceased": 0,
-  "Population": 45788534,
-  "Total_Tests": 238709
+  "Population": 45800431,
+  "Total_Tests": 250029
  },
  "Burkina Faso": {
-  "Total_Cases": 1047,
-  "Active_Cases": 107,
-  "Recovered": 887,
+  "Total_Cases": 1065,
+  "Active_Cases": 111,
+  "Recovered": 901,
   "Deceased": 53,
-  "Population": 20923414,
+  "Population": 20928130,
   "Total_Tests": 0
  },
  "Uruguay": {
-  "Total_Cases": 1037,
-  "Active_Cases": 88,
-  "Recovered": 917,
-  "Deceased": 32,
-  "Population": 3474300,
-  "Total_Tests": 86008
- },
- "Cyprus": {
-  "Total_Cases": 1033,
-  "Active_Cases": 169,
-  "Recovered": 845,
-  "Deceased": 19,
-  "Population": 1207759,
-  "Total_Tests": 179676
+  "Total_Cases": 1064,
+  "Active_Cases": 104,
+  "Recovered": 927,
+  "Deceased": 33,
+  "Population": 3474398,
+  "Total_Tests": 90649
  },
  "Georgia": {
-  "Total_Cases": 1018,
-  "Active_Cases": 108,
-  "Recovered": 895,
-  "Deceased": 15,
-  "Population": 3988785,
-  "Total_Tests": 164285
+  "Total_Cases": 1049,
+  "Active_Cases": 130,
+  "Recovered": 903,
+  "Deceased": 16,
+  "Population": 3988722,
+  "Total_Tests": 174558
  },
- "Suriname": {
-  "Total_Cases": 943,
-  "Active_Cases": 324,
-  "Recovered": 600,
+ "Cyprus": {
+  "Total_Cases": 1038,
+  "Active_Cases": 172,
+  "Recovered": 847,
   "Deceased": 19,
-  "Population": 586867,
-  "Total_Tests": 1244
+  "Population": 1207831,
+  "Total_Tests": 183921
  },
  "Chad": {
-  "Total_Cases": 887,
-  "Active_Cases": 12,
-  "Recovered": 800,
+  "Total_Cases": 889,
+  "Active_Cases": 13,
+  "Recovered": 801,
   "Deceased": 75,
-  "Population": 16442105,
+  "Population": 16445984,
   "Total_Tests": 0
  },
  "Andorra": {
-  "Total_Cases": 880,
-  "Active_Cases": 25,
+  "Total_Cases": 884,
+  "Active_Cases": 29,
   "Recovered": 803,
   "Deceased": 52,
-  "Population": 77271,
+  "Population": 77272,
   "Total_Tests": 3750
  },
  "Jamaica": {
-  "Total_Cases": 768,
-  "Active_Cases": 80,
-  "Recovered": 678,
+  "Total_Cases": 809,
+  "Active_Cases": 93,
+  "Recovered": 706,
   "Deceased": 10,
-  "Population": 2961773,
-  "Total_Tests": 29653
+  "Population": 2961879,
+  "Total_Tests": 32053
  },
  "Togo": {
-  "Total_Cases": 766,
-  "Active_Cases": 205,
-  "Recovered": 546,
+  "Total_Cases": 783,
+  "Active_Cases": 214,
+  "Recovered": 554,
   "Deceased": 15,
-  "Population": 8285951,
-  "Total_Tests": 37387
+  "Population": 8287546,
+  "Total_Tests": 38149
+ },
+ "Angola": {
+  "Total_Cases": 749,
+  "Active_Cases": 499,
+  "Recovered": 221,
+  "Deceased": 29,
+  "Population": 32908591,
+  "Total_Tests": 10000
  },
  "Sao Tome and Principe": {
-  "Total_Cases": 741,
-  "Active_Cases": 402,
-  "Recovered": 325,
+  "Total_Cases": 746,
+  "Active_Cases": 196,
+  "Recovered": 536,
   "Deceased": 14,
-  "Population": 219321,
-  "Total_Tests": 2068
+  "Population": 219354,
+  "Total_Tests": 2142
  },
  "Diamond Princess": {
   "Total_Cases": 712,
@@ -1204,31 +1212,23 @@
   "Active_Cases": 1,
   "Recovered": 656,
   "Deceased": 42,
-  "Population": 33934,
+  "Population": 33935,
   "Total_Tests": 5729
  },
  "Malta": {
-  "Total_Cases": 675,
+  "Total_Cases": 677,
   "Active_Cases": 4,
-  "Recovered": 662,
+  "Recovered": 664,
   "Deceased": 9,
-  "Population": 441599,
-  "Total_Tests": 112403
- },
- "Angola": {
-  "Total_Cases": 638,
-  "Active_Cases": 410,
-  "Recovered": 199,
-  "Deceased": 29,
-  "Population": 32900171,
-  "Total_Tests": 10000
+  "Population": 441609,
+  "Total_Tests": 114779
  },
  "R\u00e9union": {
-  "Total_Cases": 614,
-  "Active_Cases": 139,
+  "Total_Cases": 631,
+  "Active_Cases": 156,
   "Recovered": 472,
   "Deceased": 3,
-  "Population": 895603,
+  "Population": 895655,
   "Total_Tests": 35419
  },
  "Channel Islands": {
@@ -1236,15 +1236,23 @@
   "Active_Cases": 7,
   "Recovered": 529,
   "Deceased": 47,
-  "Population": 173934,
+  "Population": 173947,
   "Total_Tests": 30721
+ },
+ "Syria": {
+  "Total_Cases": 522,
+  "Active_Cases": 339,
+  "Recovered": 154,
+  "Deceased": 29,
+  "Population": 17519796,
+  "Total_Tests": 0
  },
  "Botswana": {
   "Total_Cases": 522,
   "Active_Cases": 473,
   "Recovered": 48,
   "Deceased": 1,
-  "Population": 2353476,
+  "Population": 2353866,
   "Total_Tests": 51379
  },
  "Tanzania": {
@@ -1252,31 +1260,23 @@
   "Active_Cases": 305,
   "Recovered": 183,
   "Deceased": 21,
-  "Population": 59793037,
-  "Total_Tests": 0
- },
- "Syria": {
-  "Total_Cases": 496,
-  "Active_Cases": 327,
-  "Recovered": 144,
-  "Deceased": 25,
-  "Population": 17516302,
+  "Population": 59807039,
   "Total_Tests": 0
  },
  "Taiwan": {
-  "Total_Cases": 454,
-  "Active_Cases": 7,
+  "Total_Cases": 455,
+  "Active_Cases": 8,
   "Recovered": 440,
   "Deceased": 7,
-  "Population": 23818850,
-  "Total_Tests": 79065
+  "Population": 23819202,
+  "Total_Tests": 79808
  },
  "Vietnam": {
-  "Total_Cases": 382,
-  "Active_Cases": 26,
-  "Recovered": 356,
+  "Total_Cases": 396,
+  "Active_Cases": 31,
+  "Recovered": 365,
   "Deceased": 0,
-  "Population": 97377661,
+  "Population": 97384832,
   "Total_Tests": 275000
  },
  "Lesotho": {
@@ -1284,79 +1284,79 @@
   "Active_Cases": 284,
   "Recovered": 69,
   "Deceased": 6,
-  "Population": 2143016,
+  "Population": 2143155,
   "Total_Tests": 7432
  },
  "Mauritius": {
   "Total_Cases": 343,
-  "Active_Cases": 2,
-  "Recovered": 331,
+  "Active_Cases": 1,
+  "Recovered": 332,
   "Deceased": 10,
-  "Population": 1271870,
-  "Total_Tests": 193561
+  "Population": 1271887,
+  "Total_Tests": 205285
  },
  "Myanmar": {
-  "Total_Cases": 339,
-  "Active_Cases": 62,
-  "Recovered": 271,
+  "Total_Cases": 341,
+  "Active_Cases": 57,
+  "Recovered": 278,
   "Deceased": 6,
-  "Population": 54426490,
-  "Total_Tests": 99302
+  "Population": 54429475,
+  "Total_Tests": 102499
+ },
+ "Guyana": {
+  "Total_Cases": 337,
+  "Active_Cases": 155,
+  "Recovered": 163,
+  "Deceased": 19,
+  "Population": 786760,
+  "Total_Tests": 3769
  },
  "Isle of Man": {
   "Total_Cases": 336,
   "Active_Cases": 0,
   "Recovered": 312,
   "Deceased": 24,
-  "Population": 85054,
-  "Total_Tests": 7473
+  "Population": 85058,
+  "Total_Tests": 7606
  },
  "Comoros": {
-  "Total_Cases": 328,
-  "Active_Cases": 10,
-  "Recovered": 311,
+  "Total_Cases": 334,
+  "Active_Cases": 14,
+  "Recovered": 313,
   "Deceased": 7,
-  "Population": 870312,
+  "Population": 870464,
   "Total_Tests": 0
  },
- "Guyana": {
-  "Total_Cases": 320,
-  "Active_Cases": 145,
-  "Recovered": 156,
-  "Deceased": 19,
-  "Population": 786729,
-  "Total_Tests": 3558
- },
  "Burundi": {
-  "Total_Cases": 310,
-  "Active_Cases": 102,
+  "Total_Cases": 322,
+  "Active_Cases": 114,
   "Recovered": 207,
   "Deceased": 1,
-  "Population": 11902780,
+  "Population": 11905695,
   "Total_Tests": 6697
  },
  "Mongolia": {
   "Total_Cases": 287,
-  "Active_Cases": 76,
-  "Recovered": 211,
+  "Active_Cases": 74,
+  "Recovered": 213,
   "Deceased": 0,
-  "Population": 3280457,
-  "Total_Tests": 29490
+  "Population": 3280890,
+  "Total_Tests": 30453
  },
  "Martinique": {
-  "Total_Cases": 255,
-  "Active_Cases": 142,
+  "Total_Cases": 262,
+  "Active_Cases": 149,
   "Recovered": 98,
   "Deceased": 15,
-  "Population": 375251,
-  "Total_Tests": 0
+  "Population": 375248,
+  "Total_Tests": 12227
  },
  "Eritrea": {
   "Total_Cases": 251,
   "Active_Cases": 96,
   "Recovered": 155,
   "Deceased": 0,
-  "Population": 3548492,
+  "Population": 3548895,
   "Total_Tests": 0
  },
  "Cayman Islands": {
@@ -1364,87 +1364,95 @@
   "Active_Cases": 2,
   "Recovered": 200,
   "Deceased": 1,
-  "Population": 65755,
-  "Total_Tests": 27597
+  "Population": 65762,
+  "Total_Tests": 28126
+ },
+ "Cambodia": {
+  "Total_Cases": 197,
+  "Active_Cases": 57,
+  "Recovered": 140,
+  "Deceased": 0,
+  "Population": 16730625,
+  "Total_Tests": 53379
  },
  "Guadeloupe": {
   "Total_Cases": 195,
   "Active_Cases": 9,
   "Recovered": 172,
   "Deceased": 14,
-  "Population": 400127,
+  "Population": 400128,
   "Total_Tests": 13571
  },
  "Faeroe Islands": {
-  "Total_Cases": 188,
-  "Active_Cases": 0,
+  "Total_Cases": 191,
+  "Active_Cases": 3,
   "Recovered": 188,
   "Deceased": 0,
-  "Population": 48872,
-  "Total_Tests": 27062
+  "Population": 48873,
+  "Total_Tests": 29522
  },
  "Gibraltar": {
   "Total_Cases": 180,
   "Active_Cases": 0,
   "Recovered": 180,
   "Deceased": 0,
-  "Population": 33691,
-  "Total_Tests": 17720
+  "Population": 33690,
+  "Total_Tests": 18177
  },
- "Cambodia": {
-  "Total_Cases": 171,
-  "Active_Cases": 38,
-  "Recovered": 133,
-  "Deceased": 0,
-  "Population": 16728728,
-  "Total_Tests": 50796
+ "Bahamas": {
+  "Total_Cases": 174,
+  "Active_Cases": 72,
+  "Recovered": 91,
+  "Deceased": 11,
+  "Population": 393441,
+  "Total_Tests": 3672
  },
  "Bermuda": {
-  "Total_Cases": 152,
-  "Active_Cases": 6,
+  "Total_Cases": 153,
+  "Active_Cases": 7,
   "Recovered": 137,
   "Deceased": 9,
-  "Population": 62266,
-  "Total_Tests": 15114
+  "Population": 62264,
+  "Total_Tests": 16852
  },
  "Brunei ": {
   "Total_Cases": 141,
   "Active_Cases": 0,
   "Recovered": 138,
   "Deceased": 3,
-  "Population": 437665,
-  "Total_Tests": 34797
+  "Population": 437699,
+  "Total_Tests": 35469
  },
  "Trinidad and Tobago": {
-  "Total_Cases": 136,
-  "Active_Cases": 4,
+  "Total_Cases": 137,
+  "Active_Cases": 5,
   "Recovered": 124,
   "Deceased": 8,
-  "Population": 1399703,
-  "Total_Tests": 5983
- },
- "Bahamas": {
-  "Total_Cases": 129,
-  "Active_Cases": 27,
-  "Recovered": 91,
-  "Deceased": 11,
-  "Population": 393411,
-  "Total_Tests": 2570
+  "Population": 1399740,
+  "Total_Tests": 6133
  },
  "Aruba": {
-  "Total_Cases": 111,
-  "Active_Cases": 8,
+  "Total_Cases": 115,
+  "Active_Cases": 12,
   "Recovered": 100,
   "Deceased": 3,
-  "Population": 106787,
-  "Total_Tests": 4419
+  "Population": 106791,
+  "Total_Tests": 5209
+ },
+ "Gambia": {
+  "Total_Cases": 112,
+  "Active_Cases": 51,
+  "Recovered": 57,
+  "Deceased": 4,
+  "Population": 2419588,
+  "Total_Tests": 3681
  },
  "Monaco": {
   "Total_Cases": 109,
-  "Active_Cases": 7,
-  "Recovered": 98,
+  "Active_Cases": 5,
+  "Recovered": 100,
   "Deceased": 4,
-  "Population": 39255,
+  "Population": 39257,
   "Total_Tests": 38209
  },
  "Seychelles": {
@@ -1452,47 +1460,47 @@
   "Active_Cases": 81,
   "Recovered": 27,
   "Deceased": 0,
-  "Population": 98375,
+  "Population": 98380,
   "Total_Tests": 0
  },
  "Barbados": {
-  "Total_Cases": 104,
-  "Active_Cases": 6,
+  "Total_Cases": 106,
+  "Active_Cases": 8,
   "Recovered": 91,
   "Deceased": 7,
-  "Population": 287392,
-  "Total_Tests": 9270
- },
- "Gambia": {
-  "Total_Cases": 93,
-  "Active_Cases": 40,
-  "Recovered": 49,
-  "Deceased": 4,
-  "Population": 2419029,
-  "Total_Tests": 3681
+  "Population": 287395,
+  "Total_Tests": 9602
  },
  "Bhutan": {
-  "Total_Cases": 87,
-  "Active_Cases": 9,
-  "Recovered": 78,
+  "Total_Cases": 90,
+  "Active_Cases": 7,
+  "Recovered": 83,
   "Deceased": 0,
-  "Population": 771979,
-  "Total_Tests": 39817
+  "Population": 772048,
+  "Total_Tests": 40527
  },
  "Liechtenstein": {
   "Total_Cases": 86,
   "Active_Cases": 4,
   "Recovered": 81,
   "Deceased": 1,
-  "Population": 38133,
+  "Population": 38134,
   "Total_Tests": 900
+ },
+ "Turks and Caicos": {
+  "Total_Cases": 81,
+  "Active_Cases": 57,
+  "Recovered": 22,
+  "Deceased": 2,
+  "Population": 38743,
+  "Total_Tests": 1016
  },
  "Sint Maarten": {
   "Total_Cases": 79,
   "Active_Cases": 1,
   "Recovered": 63,
   "Deceased": 15,
-  "Population": 42897,
+  "Population": 42901,
   "Total_Tests": 523
  },
  "Antigua and Barbuda": {
@@ -1500,31 +1508,31 @@
   "Active_Cases": 16,
   "Recovered": 57,
   "Deceased": 3,
-  "Population": 97965,
+  "Population": 97972,
   "Total_Tests": 930
- },
- "Turks and Caicos": {
-  "Total_Cases": 75,
-  "Active_Cases": 61,
-  "Recovered": 12,
-  "Deceased": 2,
-  "Population": 38739,
-  "Total_Tests": 979
  },
  "French Polynesia": {
   "Total_Cases": 62,
   "Active_Cases": 2,
   "Recovered": 60,
   "Deceased": 0,
-  "Population": 280983,
+  "Population": 280996,
   "Total_Tests": 4649
+ },
+ "St. Vincent Grenadines": {
+  "Total_Cases": 50,
+  "Active_Cases": 21,
+  "Recovered": 29,
+  "Deceased": 0,
+  "Population": 110960,
+  "Total_Tests": 1443
  },
  "Saint Martin": {
   "Total_Cases": 46,
   "Active_Cases": 4,
   "Recovered": 39,
   "Deceased": 3,
-  "Population": 38693,
+  "Population": 38698,
   "Total_Tests": 1056
  },
  "Macao": {
@@ -1532,39 +1540,31 @@
   "Active_Cases": 0,
   "Recovered": 46,
   "Deceased": 0,
-  "Population": 649709,
+  "Population": 649782,
   "Total_Tests": 4071
  },
  "Belize": {
-  "Total_Cases": 40,
-  "Active_Cases": 16,
+  "Total_Cases": 42,
+  "Active_Cases": 18,
   "Recovered": 22,
   "Deceased": 2,
-  "Population": 397917,
-  "Total_Tests": 2786
- },
- "St. Vincent Grenadines": {
-  "Total_Cases": 35,
-  "Active_Cases": 6,
-  "Recovered": 29,
-  "Deceased": 0,
-  "Population": 110957,
-  "Total_Tests": 1268
+  "Population": 397976,
+  "Total_Tests": 2958
  },
  "Cura\u00e7ao": {
   "Total_Cases": 28,
   "Active_Cases": 3,
   "Recovered": 24,
   "Deceased": 1,
-  "Population": 164125,
+  "Population": 164130,
   "Total_Tests": 1080
  },
  "Fiji": {
-  "Total_Cases": 26,
-  "Active_Cases": 8,
+  "Total_Cases": 27,
+  "Active_Cases": 9,
   "Recovered": 18,
   "Deceased": 0,
-  "Population": 896740,
+  "Population": 896794,
   "Total_Tests": 4000
  },
  "Timor-Leste": {
@@ -1572,7 +1572,7 @@
   "Active_Cases": 0,
   "Recovered": 24,
   "Deceased": 0,
-  "Population": 1319438,
+  "Population": 1319644,
   "Total_Tests": 1568
  },
  "Grenada": {
@@ -1580,7 +1580,7 @@
   "Active_Cases": 0,
   "Recovered": 23,
   "Deceased": 0,
-  "Population": 112547,
+  "Population": 112552,
   "Total_Tests": 5465
  },
  "Saint Lucia": {
@@ -1588,31 +1588,39 @@
   "Active_Cases": 4,
   "Recovered": 19,
   "Deceased": 0,
-  "Population": 183666,
-  "Total_Tests": 2140
+  "Population": 183673,
+  "Total_Tests": 2155
  },
  "New Caledonia": {
   "Total_Cases": 22,
   "Active_Cases": 1,
   "Recovered": 21,
   "Deceased": 0,
-  "Population": 285620,
-  "Total_Tests": 9424
+  "Population": 285642,
+  "Total_Tests": 9841
+ },
+ "Papua New Guinea": {
+  "Total_Cases": 19,
+  "Active_Cases": 10,
+  "Recovered": 8,
+  "Deceased": 1,
+  "Population": 8955125,
+  "Total_Tests": 7147
  },
  "Laos": {
   "Total_Cases": 19,
   "Active_Cases": 0,
   "Recovered": 19,
   "Deceased": 0,
-  "Population": 7279979,
-  "Total_Tests": 22721
+  "Population": 7280845,
+  "Total_Tests": 23786
  },
  "Dominica": {
   "Total_Cases": 18,
   "Active_Cases": 0,
   "Recovered": 18,
   "Deceased": 0,
-  "Population": 71995,
+  "Population": 71996,
   "Total_Tests": 851
  },
  "Saint Kitts and Nevis": {
@@ -1620,23 +1628,15 @@
   "Active_Cases": 2,
   "Recovered": 15,
   "Deceased": 0,
-  "Population": 53216,
-  "Total_Tests": 713
- },
- "Papua New Guinea": {
-  "Total_Cases": 16,
-  "Active_Cases": 8,
-  "Recovered": 8,
-  "Deceased": 0,
-  "Population": 8953733,
-  "Total_Tests": 7147
+  "Population": 53219,
+  "Total_Tests": 725
  },
  "Falkland Islands": {
   "Total_Cases": 13,
   "Active_Cases": 0,
   "Recovered": 13,
   "Deceased": 0,
-  "Population": 3483,
+  "Population": 3484,
   "Total_Tests": 1660
  },
  "Greenland": {
@@ -1644,8 +1644,8 @@
   "Active_Cases": 0,
   "Recovered": 13,
   "Deceased": 0,
-  "Population": 56775,
-  "Total_Tests": 5192
+  "Population": 56776,
+  "Total_Tests": 5475
  },
  "Montserrat": {
   "Total_Cases": 12,
@@ -1668,7 +1668,7 @@
   "Active_Cases": 1,
   "Recovered": 8,
   "Deceased": 1,
-  "Population": 597877,
+  "Population": 597998,
   "Total_Tests": 0
  },
  "Caribbean Netherlands": {
@@ -1676,7 +1676,7 @@
   "Active_Cases": 3,
   "Recovered": 7,
   "Deceased": 0,
-  "Population": 26234,
+  "Population": 26236,
   "Total_Tests": 424
  },
  "MS Zaandam": {
@@ -1692,7 +1692,7 @@
   "Active_Cases": 0,
   "Recovered": 7,
   "Deceased": 1,
-  "Population": 30240,
+  "Population": 30242,
   "Total_Tests": 439
  },
  "St. Barth": {
@@ -1700,7 +1700,7 @@
   "Active_Cases": 0,
   "Recovered": 6,
   "Deceased": 0,
-  "Population": 9878,
+  "Population": 9879,
   "Total_Tests": 897
  },
  "Saint Pierre Miquelon": {
@@ -1708,7 +1708,7 @@
   "Active_Cases": 3,
   "Recovered": 1,
   "Deceased": 0,
-  "Population": 5793,
+  "Population": 5792,
   "Total_Tests": 0
  },
  "Anguilla": {
@@ -1716,13 +1716,13 @@
   "Active_Cases": 0,
   "Recovered": 3,
   "Deceased": 0,
-  "Population": 15009,
+  "Population": 15010,
   "Total_Tests": 380
  },
  "China": {
-  "Total_Cases": 83644,
-  "Active_Cases": 252,
-  "Recovered": 78758,
+  "Total_Cases": 83693,
+  "Active_Cases": 242,
+  "Recovered": 78817,
   "Deceased": 4634,
   "Population": 1439323776,
   "Total_Tests": 90410000
