@@ -283,7 +283,7 @@ function plot_daily_testedRate(id, data){
 	  id : "bar-x-axis1",
 	  display : true,
         ticks: {maxRotation: 00,minRotation: 0, fontSize: 14,offsetGridLines: false, autoSkip: true,
-				max: 4000000,
+				max: 5000000,
 				callback: function(value, index, values) {//needed to change the scientific notation results from using logarithmic scale
 					if (value>999 && value < 999999){return value/1e3 + 'K'}
 					if (value>999999){return value/1e6 + 'M' ;}
