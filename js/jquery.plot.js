@@ -465,7 +465,7 @@ $("#0").on("click", function (){
 $("#1").click( function (){
 		myChart.options.scales.yAxes[0] = {
 				type : 'logarithmic',
-				ticks: {beginAtZero: true,fontSize: 16, max: 20000000,
+				ticks: {beginAtZero: true,fontSize: 16, max: 30000000,
 				  callback: function(value, index, values) {//needed to change the scientific notation results from using logarithmic scale
 				      if (value > 999 && value <999999){
 					  return value/1e3 + 'K';}
