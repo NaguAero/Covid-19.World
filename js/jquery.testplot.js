@@ -339,7 +339,7 @@ $("#ratelog").click( function (){
 				fontSize: 18,
 				},
 				type : 'logarithmic',
-				ticks: {beginAtZero: true,fontSize: 16, max: 80, min: 0,
+				ticks: {beginAtZero: true,fontSize: 16, max: 100, min: 0,
 				  callback: function(value, index, values) {//needed to change the scientific notation results from using logarithmic scale
 				      i
 					  return value ;//pass tick values as a string into Number function
@@ -355,7 +355,6 @@ $("#ratelog").click( function (){
 						allcountline.ticks.push(10);
 						allcountline.ticks.push(20);
 						allcountline.ticks.push(50);
-						allcountline.ticks.push(80);
 						allcountline.ticks.push(100);
                       }
 		};
