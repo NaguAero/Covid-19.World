@@ -297,7 +297,7 @@ function plot_daily_testedRate(id, data){
       },
       }],
       yAxes: [{
-	  ticks: {beginAtZero: true,fontSize: 16, offsetGridLines: false, autoSkip: true,max: 70, min: 0,
+	  ticks: {beginAtZero: true,fontSize: 16, offsetGridLines: false, autoSkip: true,max: 80, min: 0,
 				  callback: function(value, index, values) {//needed to change the scientific notation results from using logarithmic scale
 					  return value ;//pass tick values as a string into Number function
 				      }
@@ -325,7 +325,7 @@ $("#ratelinear").on("click", function (){
 					fontColor: "black",
 					fontSize: 18,
 				},
-				ticks: {beginAtZero: true,fontSize: 16,max: 40, min: 0}
+				ticks: {beginAtZero: true,fontSize: 16,max: 80, min: 0}
 		};
 		myChart.update();
 	
@@ -339,7 +339,7 @@ $("#ratelog").click( function (){
 				fontSize: 18,
 				},
 				type : 'logarithmic',
-				ticks: {beginAtZero: true,fontSize: 16, max: 50, min: 0,
+				ticks: {beginAtZero: true,fontSize: 16, max: 80, min: 0,
 				  callback: function(value, index, values) {//needed to change the scientific notation results from using logarithmic scale
 				      i
 					  return value ;//pass tick values as a string into Number function
