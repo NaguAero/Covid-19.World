@@ -355,6 +355,8 @@ $("#ratelog").click( function (){
 						allcountline.ticks.push(10);
 						allcountline.ticks.push(20);
 						allcountline.ticks.push(50);
+						allcountline.ticks.push(80);
+						allcountline.ticks.push(100);
                       }
 		};
 		
