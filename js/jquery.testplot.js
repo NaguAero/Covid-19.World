@@ -280,8 +280,9 @@ function plot_daily_testedRate(id, data){
     scales: {
       xAxes: [{
 	  stacked : (id == 'india') ? false : true,
-	  id : "bar-x-axis1",
+	 // id : "bar-x-axis1",
 	  display : true,
+		type: 'linear',
         ticks: {maxRotation: 00,minRotation: 0, fontSize: 14,offsetGridLines: false, autoSkip: true,
 				max: 6000000,
 				callback: function(value, index, values) {//needed to change the scientific notation results from using logarithmic scale
@@ -294,7 +295,7 @@ function plot_daily_testedRate(id, data){
         labelString: "Total Cases",
         // fontColor: "black",
 		fontSize: 16,
-      },
+        },
       }],
       yAxes: [{
 	  ticks: {beginAtZero: true,fontSize: 16, offsetGridLines: false, autoSkip: true,max: 80, min: 0,
@@ -341,7 +342,6 @@ $("#ratelog").click( function (){
 				type : 'logarithmic',
 				ticks: {beginAtZero: true,fontSize: 16, max: 100, min: 0,
 				  callback: function(value, index, values) {//needed to change the scientific notation results from using logarithmic scale
-				      i
 					  return value ;//pass tick values as a string into Number function
 				      }
 				},
